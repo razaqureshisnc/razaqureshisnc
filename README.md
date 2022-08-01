@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Raza Qureshi
+- 👋 Hi, I’m Raza Qureshi!
 - 👀 I’m interested in Learning Coding, Cloud Computing, Software Architecture, Design Software Solutions
 - 🌱 I’m currently learning Azure Pipelines, Azure DevOps Git and .NET 6, Containerization and Kubernettees
 - 💞️ I’m looking to collaborate on Learning Azure Pipelines.
